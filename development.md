@@ -12,3 +12,6 @@ create a  client(chat application) and server folders
 
   # development
   - package.json:add "start" attribute to start the script/app in scripts heading
+ 
+    # running the app
+    - use `npm start` inside the client folder(chat-application folder)
